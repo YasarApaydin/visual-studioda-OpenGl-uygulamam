@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Odev\bin\Debug\Odev.exe
+C:\Users\Lenovo\source\repos\Odev\bin\Debug\Odev.pdb
+C:\Users\Lenovo\source\repos\Odev\bin\Debug\Tao.OpenGl.dll
+C:\Users\Lenovo\source\repos\Odev\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Lenovo\source\repos\Odev\bin\Debug\Tao.OpenGl.xml
+C:\Users\Lenovo\source\repos\Odev\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Lenovo\source\repos\Odev\obj\Debug\Odev.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\Lenovo\source\repos\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Odev\obj\Debug\Odev.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Odev\obj\Debug\Odev.exe
+C:\Users\Lenovo\source\repos\Odev\obj\Debug\Odev.pdb
